@@ -1,2 +1,3 @@
 # Hello-World
-This is my first try
+
+Github will help me manage my project
